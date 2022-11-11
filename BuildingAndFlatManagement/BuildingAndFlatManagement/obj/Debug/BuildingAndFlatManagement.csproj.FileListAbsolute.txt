@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\bin\Debug\BuildingAndFlatManagement.exe.config
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\bin\Debug\BuildingAndFlatManagement.exe
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\bin\Debug\BuildingAndFlatManagement.pdb
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.FormDASHBOARD.resources
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.Form1.resources
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.Properties.Resources.resources
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.exe
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.pdb
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.FormBuildingOwner.resources
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.FormBuildingDetails.resources
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.FormFlatSold.resources
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.FormTenant.resources
+C:\Users\USER\source\repos\BuildingAndFlatManagement\BuildingAndFlatManagement\obj\Debug\BuildingAndFlatManagement.FormSign_Up.resources
